@@ -1,12 +1,12 @@
-#TelecomX - parte2 - Análise de Evasão de Clientes
+TelecomX - parte2 - Análise de Evasão de Clientes
 
 🎯Objetivo 
 
-###Este projeto tem como foco prever o churn de clientes (cancelamento) da empresa TelecomX.
+Este projeto tem como foco prever o churn de clientes (cancelamento) da empresa TelecomX.
 
 📁Estrutura do Projeto
 
-###A análise foi conduzida np Google Colab, utilizando bibliotecas como:
+A análise foi conduzida np Google Colab, utilizando bibliotecas como:
 
 - Pandas para manipulação de dados;
 - Seaborn e matplotlib para visualizações;
